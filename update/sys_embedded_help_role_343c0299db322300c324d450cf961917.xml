@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_121763_team_dev.testtable_user" name="x_121763_team_dev.testtable_user">703c4215db322300c324d450cf961989</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-03 18:53:45</sys_created_on>
+        <sys_id>343c0299db322300c324d450cf961917</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>703c4215db322300c324d450cf961989</sys_name>
+        <sys_package display_value="Team Dev" source="x_121763_team_dev">c6fb8a51db322300c324d450cf961952</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Team Dev">c6fb8a51db322300c324d450cf961952</sys_scope>
+        <sys_update_name>sys_embedded_help_role_343c0299db322300c324d450cf961917</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-03 18:53:45</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

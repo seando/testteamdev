@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-03 18:53:46</sys_created_on>
+        <sys_id>743c0299db322300c324d450cf961952</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_121763_team_dev_testtable.x_121763_team_dev.testtable_user</sys_name>
+        <sys_package display_value="Team Dev" source="x_121763_team_dev">c6fb8a51db322300c324d450cf961952</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Team Dev">c6fb8a51db322300c324d450cf961952</sys_scope>
+        <sys_security_acl display_value="x_121763_team_dev_testtable">3c3c0299db322300c324d450cf96194f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_743c0299db322300c324d450cf961952</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-03 18:53:46</sys_updated_on>
+        <sys_user_role display_value="x_121763_team_dev.testtable_user" name="x_121763_team_dev.testtable_user">703c4215db322300c324d450cf961989</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
